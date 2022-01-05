@@ -32,3 +32,5 @@ The actual colors are your limited color pallet. Select a handful of colors, at 
 
 # Terms of Use
 Don't sell it. If you have money to throw you should consider signing up for some of Richard Robinson's courses at https://mypaintingclub.com/!
+
+If you are Richard Robinson and you want me to take this down i will.
