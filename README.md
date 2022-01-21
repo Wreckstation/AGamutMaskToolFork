@@ -1,6 +1,6 @@
 # AGamutMaskToolFork
 
-An offline version of The Gamut Mask Tool made by Richard Robinson, with a couple of tweaks I added myself. The original gamut mask concept is by James Gurney. You can still visit and use the [original free online version here](https://mypaintingclub.com/blog/post/39-The-Gamut-Mask-Tool) if you don't like this one.
+An offline version of The Gamut Mask Tool made by Richard Robinson, with a couple of tweaks I added myself. The original gamut mask concept is by James Gurney. I'm also hosting it over at https://wreckstation.github.io/AGamutMaskToolFork/. You can still visit and use the [original free online version here](https://mypaintingclub.com/blog/post/39-The-Gamut-Mask-Tool) if you don't like this one.
 
 # Stuff I changed:
 * Third wheel that is the YURMBY wheel but with the colors blended together, if you decided that the pallet was too limiting.
