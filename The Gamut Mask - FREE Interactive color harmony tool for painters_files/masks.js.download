@@ -220,11 +220,11 @@ function mask10(scale = 1){
 function mask11(scale = 1){
     var h = 270*scale;
     var r = -125;
-    var s = 27;
-    var x = 20;
+    var s = -100;
+    var x = 100+(100*scale);
     ktx.beginPath();
     ktx.moveTo(center_x+r+x+mask_x,      center_y+mask_y-r);
-    ktx.lineTo(center_x+r+x+mask_x+h-s,      center_y+mask_y-r);
+    ktx.lineTo(center_x+r+x+mask_x-h-s,      center_y+mask_y-r);
     ktx.lineTo(center_x+r+x+mask_x      ,center_y+mask_y-r-h);
     ktx.closePath();
 
@@ -234,10 +234,10 @@ function mask11(scale = 1){
 }
 
 function mask12(scale = 1){
-    var h = 287*scale;
-    var r = -142;
-    var s = 0;
-    var x = 0;
+    var h = 270*scale;
+    var r = -125;
+    var s = 100;
+    var x = 15+(15*scale);
     ktx.beginPath();
     ktx.moveTo(center_x+r+x+mask_x,      center_y+mask_y-r);
     ktx.lineTo(center_x+r+x+mask_x+h-s,      center_y+mask_y-r);
