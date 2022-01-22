@@ -28,11 +28,11 @@ The actual colors are your limited color pallet. Select a handful of colors, at 
 
 # Further Reading
 
-* https://www.youtube.com/watch?v=qfE4E5goEIc - Video demonstration of using a gamut mask in different ways 
 * http://gurneyjourney.blogspot.com/2008/02/from-mask-to-palette.html
-* https://mypaintingclub.com/blog/post/39-The-Gamut-Mask-Tool - the original page this tool is from, tells you how to use it
-* https://vimeo.com/390100574?embedded=true&source=video_title&owner=12103469 - Linked video within that post
-* https://www.youtube.com/watch?v=4LhcNbFMkTw
+* https://mypaintingclub.com/blog/post/39-The-Gamut-Mask-Tool - the original page this tool is from. This video tells you how to use it
+* [Gamut Mask Intro](https://vimeo.com/390100574?embedded=true&source=video_title&owner=12103469) - Linked video within that post
+* [Gamut Masking](https://www.youtube.com/watch?v=qfE4E5goEIc) - Video demonstration of using a gamut mask in different ways 
+* [Colour Harmony - 10 Minutes To Better Painting - Episode 5](https://www.youtube.com/watch?v=4LhcNbFMkTw) - doesn't specifically use the word "gamut" or use any masking but is a very similar concept
 
 # Terms of Use
 Don't sell it. If you have money to throw you should consider signing up for some of Richard Robinson's courses at https://mypaintingclub.com/!
