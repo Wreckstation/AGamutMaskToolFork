@@ -24,7 +24,18 @@ Should be self explanatory, but other things less documented:
 * You can click and drag the mask shapes to move them around too
 * You can right click -> copy the wheel to paste into any art program you want
 
-The actual colors are your limited color pallet. Select a handful of colors, at the very least the ones at the corners of the mask, those will be your most saturated colors. All you can paint with are now these colors and a combination thereof. Altering the value (HSV) or luminosity (HLS) of each color is highly recommended.
+The actual colors are your limited color pallet. Select a handful of colors, at the very least the ones at the corners of the mask; those will be your most saturated colors. All you can paint with are now these colors and a combination thereof. Altering the value (HSV) or luminosity (HLS) of each color is highly recommended.
+
+# Limitations
+Observations from my own usage:
+
+As it is designed with physical paint in mind, the concept of adding pure white in reality is not the same as increasing value/luminosity. this leads to slightly washed out colors. 
+
+Blending also loses some vibrancy. If you need a color in between the ones the tool gives you, I suggest using your art program of choice's color wheel and move the hue slider so it's in between the two colors instead of trying to blend the two colors together. I created the continuous yurmby wheel as an attempt to mitigate this issue.
+
+Conclusion: Unless you have Rebelle 5 Pro that has realistic color mixing, I suggest not using these as a hard guideline for digital art. Think of it as a map of where your sliders should generally be instead of directly color picking from it. I'm also not a professional artist lol. maybe the wheel was too powerful for me
+
+![image](https://user-images.githubusercontent.com/53310247/150643122-6f077399-9a12-4982-9bd1-b75b504bfda6.png)
 
 # Further Reading
 
@@ -32,7 +43,7 @@ The actual colors are your limited color pallet. Select a handful of colors, at 
 * https://mypaintingclub.com/blog/post/39-The-Gamut-Mask-Tool - the original page this tool is from. This video tells you how to use it
 * [Gamut Mask Intro](https://vimeo.com/390100574?embedded=true&source=video_title&owner=12103469) - Linked video within that post
 * [Gamut Masking](https://www.youtube.com/watch?v=qfE4E5goEIc) - Video demonstration of using a gamut mask in different ways 
-* [Colour Harmony - 10 Minutes To Better Painting - Episode 5](https://www.youtube.com/watch?v=4LhcNbFMkTw) - doesn't specifically use the word "gamut" or use any masking but is a very similar concept
+* [Colour Harmony - 10 Minutes To Better Painting - Episode 5](https://www.youtube.com/watch?v=4LhcNbFMkTw) - doesn't specifically use the word "gamut" or use any masking but is a very similar concept, explaining why the center of the wheel heads towards gray.
 
 # Terms of Use
 Don't sell it. If you have money to throw you should consider signing up for some of Richard Robinson's courses at https://mypaintingclub.com/!
