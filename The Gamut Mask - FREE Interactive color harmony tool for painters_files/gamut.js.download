@@ -74,12 +74,12 @@ function drawVeil2(){
     var cf = parseInt(255*veil);
 
     var c = ci;
-    //var ad = (af-ai)/(x+7);
+    //var ad = (af-ai)/(x);
     var cd = parseInt((cf-ci)/x);
     //console.log(veil, color_slider,ci,cf);
 
     for(var i = x; i >0; i--){
-        a = (1 / Math.max(1,i))/(color_slider);
+        a = (1 / Math.max(1,i))/(color_slider)/2;
         //a = 1;
         btx.beginPath();
         var s = 'rgba('+c+','+c+','+c+','+a+')';

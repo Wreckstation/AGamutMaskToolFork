@@ -359,8 +359,9 @@ function mask19(){
 }
 
 function mask20(){
-    var w = 276*scale;
-    ktx.fillRect(center_x-w/2+mask_x,center_y-w/2+mask_y,w,w)
+    let w = 110*scale;
+    let h = 320*scale;
+    ktx.fillRect(center_x-w/2+mask_x,center_y-h/2+mask_y,w,h)
     ktx.globalCompositeOperation = "source-in";
     ktx.drawImage(mcanvas, 0,0);
 }
