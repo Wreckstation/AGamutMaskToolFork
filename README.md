@@ -6,6 +6,7 @@ An offline version of The Gamut Mask Tool made by Richard Robinson, with a coupl
 * Third wheel that is the YURMBY wheel but with the colors blended together, if you decided that the pallet was too limiting.
 * The yurmby wheel's orange color was fixed.
 * Third slider that controls the size of the gamut mask.
+* Since size slider made some masks obsolete, masks 11, 12, and 20 were replaced with new shapes (right scalene, right scalene (horizontally flipped), and rectangle)
 * Button next to the print button that resets sliders and color wheel rotation to their default.
 * Button that randomizes the mask and wheel rotation if you don't have any ideas.
 * Updated link to homepage.
@@ -13,7 +14,6 @@ An offline version of The Gamut Mask Tool made by Richard Robinson, with a coupl
 
 Stuff I might do later:
 * night mode
-* blended version of standard color wheel
 * less obviously placeholder ui
 * more flexible layout
 * toggle to "lock" parameters when randomizing
