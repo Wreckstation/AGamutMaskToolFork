@@ -29,7 +29,7 @@ The actual colors are your limited color pallet. Select a handful of colors, at 
 # Limitations
 Observations from my own usage:
 
-As it is designed with physical paint in mind, the concept of adding pure white in reality is not the same as increasing value/luminosity. this leads to slightly washed out colors. 
+As it is designed with physical paint in mind, the concept of adding pure white in reality is not the same as increasing value/luminosity. this leads to slightly washed out colors. To replicate the "true" gamut that digital painters can use, the straight lines should be polarized to give a more rounded edge to all shapes. My next planned update will be adding shapes to better fit this.
 
 Blending also loses some vibrancy. If you need a color in between the ones the tool gives you, I suggest using your art program of choice's color wheel and move the hue slider so it's in between the two colors instead of trying to blend the two colors together. I created the continuous yurmby wheel as an attempt to mitigate this issue.
 
